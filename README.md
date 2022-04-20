@@ -2,7 +2,7 @@
 
 ### Delicacy Technology Love
 
-Please refer to [my gallery](https://github.com/RaphaelSun312/RaphaelSun312.github.io/gallery/index.html)
+Please refer to [my gallery](https://raphaelSun312.github.io/gallery/index.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
